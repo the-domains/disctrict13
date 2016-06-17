@@ -1,14 +1,14 @@
-layout_spectrum: 0.7984787
+layout_spectrum: 0.4110476626083255
 color:
-  saturation: 0.5131578
-  lightness: 0.7898338
-  brandStrength: 0.6880282
+  saturation: 0.1524859054479748
+  lightness: 0.016323826974257827
+  brandStrength: 0.19450526451691985
   brandColors:
-    - '#FFFFFF'
-    - '#130F0E'
-    - '#AC9A74'
-    - '#FBB764'
-    - '#7ED4FD'
-  rhythmicContrast: 0.5320118
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  rhythmicContrast: 0.23835333669558167
 typography_spectrum: 0.4000678
 name: 'Disctrict13 Presents: Catching Fire The Musical'
