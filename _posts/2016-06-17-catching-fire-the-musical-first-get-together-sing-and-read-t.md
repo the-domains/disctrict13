@@ -38,11 +38,11 @@ app_links:
     app_store_id: '284882215'
 isBasedOnUrl: >-
   https://www.facebook.com/D13Presents/photos/a.1725907507630230.1073741828.1725605050993809/1803027329918247/?type=3&theater
-datePublished: '2016-06-17T05:03:12.043Z'
-dateModified: '2016-06-17T05:02:51.158Z'
-starred: false
+datePublished: '2016-06-17T05:03:43.559Z'
+dateModified: '2016-06-17T05:03:43.314Z'
 sourcePath: >-
   _posts/2016-06-17-catching-fire-the-musical-first-get-together-sing-and-read-t.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
