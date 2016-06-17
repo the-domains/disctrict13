@@ -1,10 +1,11 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-06-15T21:49:56.124Z'
-dateModified: null
+title: Hungry for Dance
+datePublished: '2016-06-17T04:55:56.875Z'
+dateModified: '2016-06-17T04:55:56.551Z'
 author: []
 sourcePath: _posts/2016-06-15-hungry-for-dance.md
+description: DJ Oker spinning tunes for a choreography rehearsal
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
