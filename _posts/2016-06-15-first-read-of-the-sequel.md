@@ -1,13 +1,13 @@
 ---
 author: []
 title: First Read of the Sequel
-dateModified: '2016-06-17T05:06:12.388Z'
-datePublished: '2016-06-28T09:56:57.893Z'
+dateModified: '2016-06-28T09:57:38.261Z'
+datePublished: '2016-06-28T09:57:38.847Z'
 description: >-
   The cast of Hunger Games the Musical is back for another round of hilarious
   musical mayhem
 sourcePath: _posts/2016-06-15-first-read-of-the-sequel.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
