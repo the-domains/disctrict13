@@ -1,4 +1,4 @@
-layout_spectrum: 0.13614770490676165
+typography_spectrum: 0.9038980349432677
 color:
   saturation: 0.2081670977640897
   lightness: 0.8210432503838092
@@ -10,5 +10,12 @@ color:
     - '#B64926'
     - '#8E2800'
   rhythmicContrast: 0.35790865030139685
-typography_spectrum: 0.9038980349432677
+layout_spectrum: 0.13614770490676165
+author:
+  name: Frank Nickel
+  email: franknickel@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ed5e91-b423-414d-bf77-61b161d5120f.jpg
 name: 'Disctrict13 Presents: Catching Fire The Musical'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/359836eb-6560-460d-83f3-f89af6e96f2c.jpg
