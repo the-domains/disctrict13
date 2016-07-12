@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-28T09:56:36.135Z'
+datePublished: '2016-07-12T06:46:52.440Z'
 sourcePath: >-
   _posts/2016-06-28-some-of-the-cast-taylor-swifting-the-closing-song-of-catchin.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHJDWaDgghh/?taken-by=d13presents'
@@ -9,7 +9,7 @@ author:
   - name: d13presents
     url: 'https://www.instagram.com/d13presents'
     avatar: {}
-dateModified: '2016-06-28T09:56:35.653Z'
+dateModified: '2016-07-12T06:46:51.736Z'
 title: >-
   Some of the cast Taylor Swifting the closing song of Catching Fire: The
   Musical. #catchyfire #hgmusical2 #hungergamesmusical #yvrtheatre
@@ -35,7 +35,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
