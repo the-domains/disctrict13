@@ -30,11 +30,11 @@ isBasedOnUrl: 'https://www.instagram.com/p/6EAkDdiZBd/?taken-by=d13presents'
 title: >-
   #ThrowbackThursday June9th2015 - First reading for Hunger Games: The Musical
   at the Fringe! #TBT #HGmuscial #vanFringe
-datePublished: '2016-06-28T10:20:30.416Z'
-dateModified: '2016-06-28T10:02:06.152Z'
+datePublished: '2016-07-12T06:46:35.255Z'
+dateModified: '2016-07-12T06:46:34.504Z'
 description: ''
-starred: false
 sourcePath: _posts/2016-06-28-throwbackthursday-june9th2015-first-reading-for-hunger-ga.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
